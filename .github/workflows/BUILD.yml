@@ -32,4 +32,4 @@ jobs:
     permissions:
       contents: write
       actions: write
-            id-token: write
+      id-token: write
